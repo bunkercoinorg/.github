@@ -12,4 +12,4 @@ Technical abstract by Anatoly Yakovenko: https://github.com/aeyakovenko/bunker_c
 
 ## Contributing
 
-Welcomed! See [CONTRIBUTORS.md](CONTRIBUTORS.md)
+Welcomed! See [CONTRIBUTORS.md](../CONTRIBUTORS.md)
